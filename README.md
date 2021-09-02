@@ -26,7 +26,12 @@ A map is a string that contains three types of characters:
 
 ## Task
 
-You need to display the result on the page as:
+You need to display the result on the page. You need to have two maps, where a map can include one of the following cells:
+* Red cell for infected;
+* Green cell for uninfected;
+* Blue cell for the ocean.
+
+Page structure:
 
 * Map before infection;
 * Map after infection;
