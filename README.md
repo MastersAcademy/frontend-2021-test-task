@@ -39,6 +39,10 @@ Page structure:
 * Infected count;
 * Percentage of infection.
 
+**Important**
+
+❗❗ Statistics and map after infection should be calculated via JavaScript based on initial data (variable `pandemicStartMap`)
+
 ## Example
 
 ```js
